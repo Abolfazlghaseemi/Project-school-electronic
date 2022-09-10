@@ -1,0 +1,39 @@
+/*
+ * number1.c
+ *
+ * Created: 05/12/2021 04:57:19 È.Ù
+ * Author: TOP
+ */
+
+#include <io.h>
+
+#include <delay.h>
+
+void main(void)
+{
+DDRD=0xFF;
+while (1)
+    {
+    // Please write your application code here
+    PORTD=0b00000001;
+    delay_ms(500);
+    PORTD=0b00000010;
+    delay_ms(500);
+     PORTD=0b00000100;
+    delay_ms(500); 
+     PORTD=0b00001000;
+    delay_ms(500);
+     PORTD=0b00010000;
+    delay_ms(500); 
+     PORTD=0b00100000;
+    delay_ms(500);
+       PORTD=0b01000000;
+    delay_ms(500); 
+       PORTD=0b10000000;
+    delay_ms(500);
+      
+      
+    
+
+    }
+}

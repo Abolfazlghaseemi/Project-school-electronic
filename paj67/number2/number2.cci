@@ -1,0 +1,5 @@
+VERSION:3 SOURCE_TIMESTAMP:53858F35
+NODE:I LEVEL:0 LINE:8 "C:\cvavr\inc\io.h"
+NODE:I LEVEL:0 LINE:10 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:11 "i -> R5"
+NODE:F LEVEL:0 LINE:13 "main(void)"

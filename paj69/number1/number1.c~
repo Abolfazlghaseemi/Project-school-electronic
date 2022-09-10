@@ -1,0 +1,17 @@
+/*
+ * number1.c
+ *
+ * Created: 05/12/2021 07:08:24 È.Ù
+ * Author: TOP
+ */
+
+#include <io.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}

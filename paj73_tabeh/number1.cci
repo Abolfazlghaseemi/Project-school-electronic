@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:53860586
+NODE:I LEVEL:0 LINE:8 "C:\cvavr\inc\io.h"
+NODE:V LEVEL:0 LINE:11 "a -> R5"
+NODE:V LEVEL:0 LINE:11 "b -> R4"
+NODE:V LEVEL:0 LINE:11 "c -> R7"
+NODE:V LEVEL:0 LINE:11 "d -> R6"
+NODE:F LEVEL:0 LINE:16 "main(void)"
+NODE:F LEVEL:0 LINE:27 "init_port(void)"
+NODE:F LEVEL:0 LINE:33 "input(void)"
+NODE:F LEVEL:0 LINE:37 "sum(unsigned char x,unsigned char y)"
+NODE:F LEVEL:0 LINE:43 "sub(unsigned char x,unsigned char y)"
+NODE:F LEVEL:0 LINE:50 "output(unsigned char x,unsigned char y)"

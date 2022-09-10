@@ -1,0 +1,4 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"clock.c" LINE:30
+sprintf DSTACK_USAGE:14 DSTACK_LEVEL:14 FILE:"C:\cvavr\lib\stdio.lib" LINE:1462
+_print DSTACK_USAGE:20 DSTACK_LEVEL:34 FILE:"C:\cvavr\lib\stdio.lib" LINE:533
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:36 FILE:"C:\cvavr\lib\string.lib" LINE:1706
